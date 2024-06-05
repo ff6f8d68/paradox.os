@@ -10,3 +10,12 @@ if you want to add your own app:
 
 
 4. send the download link in a issue with the name: add "your app name" to paradox os
+
+
+
+
+
+
+
+
+UNLOCKED means everything is free, why? i made a shop and i dont know how to intigrate real payment
