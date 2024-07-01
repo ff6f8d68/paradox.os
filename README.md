@@ -19,3 +19,4 @@ if you want to add your own app:
 
 
 UNLOCKED means everything is free, why? i made a shop and i dont know how to intigrate real payment
+currently working on PC edition
