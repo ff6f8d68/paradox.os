@@ -1,4 +1,5 @@
 # paradox.os
+discord server of this project: https://discord.gg/KNjPquSvYH
 if you want to add your own app:
 1. download the basic app.pms
 2. edit the basic app.pms (inport it as a sprite in https://studio.penguinmod.com/editor.html how to do that:
